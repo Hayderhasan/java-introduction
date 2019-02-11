@@ -1,5 +1,8 @@
+package ee.taltech.itcolledge;
 
 public class FirstContact {
 
     public void main(String[] args) {
-        println("Hello World!");
+        System.out.println("Hello Estonia!");
+    }
+}
